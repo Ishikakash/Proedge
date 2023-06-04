@@ -34,7 +34,7 @@ import contactsData from './contact.json'
     return (
          <div>
             <center>
-            <h1><b>CONTACT APP</b></h1>
+            <h1><b>CONTACTS MOBILE APP</b></h1>
             </center>
              <input
                  type="text"
