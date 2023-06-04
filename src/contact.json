@@ -1,0 +1,63 @@
+[
+      {
+        "id": 1,
+        "name": "Abhi Kashyap",
+        "phone": "1234567890"
+      },
+      {
+        "id": 2,
+        "name": "Abhishek Gautam",
+        "phone": "9876543210"
+      },
+      {
+        "id": 3,
+        "name": "Bob Singh",
+        "phone": "4567891230"
+      },
+      {
+        "id": 4,
+        "name": "Cheeku Singh",
+        "phone": "1234567890"
+      },
+      {
+        "id": 5,
+        "name": "Dev Kumar",
+        "phone": "9876543210"
+      },
+      {
+        "id": 6,
+        "name": "Dev Joshi",
+        "phone": "4567891230"
+      },
+      {
+        "id": 7,
+        "name": "Eshika Rawat",
+        "phone": "1234567890"
+      },
+      {
+        "id": 8,
+        "name": "Ishi Gautam",
+        "phone": "9876543210"
+      },
+      {
+        "id": 9,
+        "name": "Komal Sharma",
+        "phone": "4567891230"
+      },
+      {
+        "id": 10,
+        "name": "Jeet Singh",
+        "phone": "1234567890"
+      },
+      {
+        "id": 11,
+        "name": "Jeetender",
+        "phone": "9876543210"
+      },
+      {
+        "id": 12,
+        "name": "Krrish Joshi",
+        "phone": "4567891230"
+      }
+]
+  
